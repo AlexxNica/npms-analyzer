@@ -45,7 +45,7 @@
     "gh-issues-stats": "^2.0.4",
     "glob": "^7.0.0",
     "got": "^6.2.0",
-    "hosted-git-info": "^2.1.4",
+    "hosted-git-info": "2.3.0",
     "humanize-duration": "^3.6.1",
     "is-link-working": "^2.1.0",
     "is-regular-file": "^1.0.1",
